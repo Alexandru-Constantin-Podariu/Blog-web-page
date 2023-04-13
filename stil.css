@@ -1,0 +1,75 @@
+h1
+{
+	color:red;
+}
+table
+{
+	width:900px;
+	height:50;
+	text-align:center;
+	width:100%;
+}
+#td1
+{
+	text-align:center;
+	border:orange 3px solid;
+}
+#poza
+{
+	width:300px;
+}
+ol
+{
+	font-size:30px;
+	color:orange;
+}
+#1{color:red;}
+#2{color:purple;}
+#3{color:blue;}
+#4{color:yellow;}
+#scoala
+{
+	font-size:30px;
+	color:blue;
+}
+#info
+{
+	font-size:30px;
+	color:red;
+}
+h2
+{
+	font-size:40px;
+	color:purple;
+}
+#container
+{
+	border: 5px ridge red;
+	font-family:sans-serif;
+}
+h4
+{
+	color:green;
+	font-size:30px;
+
+}
+#dans
+{
+	font-size:30px;
+	color:red;
+	font-family:sans-serif;
+}
+#pasiuni
+{
+	font-size:30px;
+	color:purple;
+}
+ul
+{
+	font-size:30px;
+	color:red;
+}
+a
+{
+	color:yellow;
+}
